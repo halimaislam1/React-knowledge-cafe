@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/Ch7M6V3/top-view-workspace-with-laptop-paper-clips.jpg",
+        "title": "The Secrets of Quantum Computing",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/hBR1j8N/woman-office.jpg",
+        "posted_date": "2023-09-18",
+        "reading_time": 10,
+        "hashtags": [
+            "technology",
+            "quantum",
+            "computing"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/4WmXZFX/top-view-workspace-with-glasses-cup-tea.jpg",
+        "title": "Exploring the Mysteries of Deep Space",
+        "author": "Bob Smith",
+        "author_img": "https://i.ibb.co/s9C1jWx/portrait-woman-customer-service-worker.jpg",
+        "posted_date": "2023-09-17",
+        "reading_time": 15,
+        "hashtags": [
+            "space",
+            "astronomy",
+            "science"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/HGcPnqd/6335661.jpg",
+        "title": "The Art of Culinary Delights",
+        "author": "Eva Davis",
+        "author_img": "https://i.ibb.co/JBqrJzd/positive-female-student-glasses-doing-homework.jpg",
+        "posted_date": "2023-09-16",
+        "reading_time": 8,
+        "hashtags": [
+            "food",
+            "cooking",
+            "recipes"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/wcN0h5d/we-are-hiring-digital-collage.jpg",
+        "title": "Green Energy Revolution",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/JBqrJzd/positive-female-student-glasses-doing-homework.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": 12,
+        "hashtags": [
+            "environment",
+            "renewableenergy",
+            "sustainability"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/pW8kjyx/we-are-hiring-digital-collage-1.jpg",
+        "title": "The Power of Mindfulness",
+        "author": "Grace Anderson",
+        "author_img": "https://i.ibb.co/hBR1j8N/woman-office.jpg",
+        "posted_date": "2023-09-14",
+        "reading_time": 7,
+        "hashtags": [
+            "mindfulness",
+            "wellness",
+            "meditation"
+        ]
+    }
+]
